@@ -1,0 +1,21 @@
+Arduino pin number,signal description
+0,"Encoder 0, quadrature 0"
+1,"Encoder 0, quadrature 1"
+2,Encoder 1
+3,Encoder 1
+4,"Encoder 0, free spin"
+5,"Encoder 0, center position"
+6,"Encoder 1, free spin"
+7,FPGA Int
+8,"Encoder 1, center position"
+9,
+10,CS
+11,
+12,
+13,
+ICSP 1,miso
+ICSP 2,5v
+ICSP 3,sck
+ICSP 4,
+ICSP 5,
+ICSP 6,
